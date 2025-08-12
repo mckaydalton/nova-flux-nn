@@ -1,0 +1,37 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+
+# Virtual envs
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data / models (you can keep small samples in data/sample/)
+data/raw/
+data/processed/
+models/
+logs/
+tensorboard/
+
+# OS
+.DS_Store
+Thumbs.db
